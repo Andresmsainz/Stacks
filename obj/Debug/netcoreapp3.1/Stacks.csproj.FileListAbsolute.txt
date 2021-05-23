@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\bin\Debug\netcoreapp3.1\Stacks.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\bin\Debug\netcoreapp3.1\Stacks.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\bin\Debug\netcoreapp3.1\Stacks.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\bin\Debug\netcoreapp3.1\Stacks.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\bin\Debug\netcoreapp3.1\Stacks.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\bin\Debug\netcoreapp3.1\Stacks.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\obj\Debug\netcoreapp3.1\Stacks.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\obj\Debug\netcoreapp3.1\Stacks.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\obj\Debug\netcoreapp3.1\Stacks.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\obj\Debug\netcoreapp3.1\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\obj\Debug\netcoreapp3.1\Stacks.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\obj\Debug\netcoreapp3.1\Stacks.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Stacks\obj\Debug\netcoreapp3.1\Stacks.genruntimeconfig.cache
